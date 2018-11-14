@@ -9,4 +9,4 @@ class MainActivity : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     } // End of onCreate function
-}
+} // End of class MainActivity
