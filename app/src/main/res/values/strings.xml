@@ -1,0 +1,4 @@
+<resources>
+    <!-- String saying Hello Android World displayed on layout -->
+    <string name="app_name">Hello Android World</string>
+</resources>
